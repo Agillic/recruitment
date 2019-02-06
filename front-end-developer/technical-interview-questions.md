@@ -1,6 +1,6 @@
-# Senior Front-End Developer technical interview questions
+# Front-End Developer technical interview questions
 
-If you applied for our open position Senior Front-End Developer, you might get some of these questions at the technical job interview.
+If you applied for our open position Front-End Developer, you might get some of these questions at the technical job interview.
 
 ...or you might not. Anyway, it's a great way to prepare and also to get a picture of what are the topics that interest us.
 
