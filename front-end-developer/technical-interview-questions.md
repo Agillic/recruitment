@@ -134,6 +134,4 @@ If you applied for our open position Front-End Developer, you might get some of 
 
 **What are the things you consider when you design application state?**
 
-**Where would you handle side effects in a React/Redux application?**
-
 **What are asynchronous action creators?**
