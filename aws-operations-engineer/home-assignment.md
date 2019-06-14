@@ -3,7 +3,7 @@
     An approach to a cloud multi-tenancy service
 
 Draw up a high-level solution for an architectual discussion. The design
-*must* cover the following services; Organizations, S3, IAM and at least
+**must** cover the following services; Organizations, S3, IAM and at least
 one proccessing service like Spark EMR, SageMaker or other.
 
 Consider, in no particular order, Development processes, architecture as
