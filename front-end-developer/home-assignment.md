@@ -6,14 +6,6 @@ Chess clocks are used in chess, the purpose is to keep track of the total time e
 
 A chess clock consists of two adjacent counters with a button to stop one while starting the other, so that the two clocks never run simultaneously.
 
-## Example video
-
-We put this video together for you to help you better understand the requirements:
-
-[![Example video thumbnail](https://img.youtube.com/vi/CP6CZVCdn9I/0.jpg)](https://www.youtube.com/watch?v=CP6CZVCdn9I)
-
-The video is showcasing basic functionality, however it was not intended to set a direction for how you need to build the user interface – for as long as the requirements are met, you should feel free to deviate from the layout and visuals.
-
 ## Functional requirements
 
 - When the page loads, both timers (one for white and one for black) are set to the initial time limit (15 minutes), and the clock is not running
@@ -54,11 +46,7 @@ The video is showcasing basic functionality, however it was not intended to set 
 
 - All you need to build is a front-end application, do not worry about server side, persistance etc.
 
-- Use React and Redux, you can use any boilerplate project you like (e.g. [create-react-app](https://github.com/facebook/create-react-app)) to save time
-
-- Use the Redux store as your single source of truth for application state (even though it may not make a lot of sense for this use case)
-
-- Use the [thunk Redux middleware](https://github.com/reduxjs/redux-thunk) for asynchronous action creators
+- Use React, Redux Toolkit and TypeScript
 
 - Prefer functional design to imperative design
 
@@ -68,4 +56,4 @@ The video is showcasing basic functionality, however it was not intended to set 
 
 ## Questions
 
-Should you have any questions, feel free to reach out at bence.toth+recruitment@agillic.com.
+Should you have any questions, feel free to reach out at martin.schalck@agillic.com.
